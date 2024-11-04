@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tarot-of-marseilles/static/css/main.ca57846c.css",
+    "main.js": "/tarot-of-marseilles/static/js/main.2d728a03.js",
+    "static/js/453.41dfb302.chunk.js": "/tarot-of-marseilles/static/js/453.41dfb302.chunk.js",
+    "index.html": "/tarot-of-marseilles/index.html",
+    "main.ca57846c.css.map": "/tarot-of-marseilles/static/css/main.ca57846c.css.map",
+    "main.2d728a03.js.map": "/tarot-of-marseilles/static/js/main.2d728a03.js.map",
+    "453.41dfb302.chunk.js.map": "/tarot-of-marseilles/static/js/453.41dfb302.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57846c.css",
+    "static/js/main.2d728a03.js"
+  ]
+}
